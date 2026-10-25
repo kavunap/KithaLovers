@@ -1,0 +1,4 @@
+project_id = "kithalovers"
+
+[functions.send-notification-email]
+verify_jwt = true
